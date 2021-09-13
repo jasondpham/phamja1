@@ -3,6 +3,8 @@ I'm Jason Pham
 
 - 👀 I'm currently studying Computer Science at Georgia Tech.
 
+![til](./gatech.gif)
+
 ## Current Coursework
 - CS 3600 Introduction to Artificial Intelligence
 - CS 2110 Computer Organization
