@@ -1,7 +1,7 @@
 ## Hi! 👋
 I'm Jason Pham
 
-- 👀 I'm currently studying Computer Science at Georgia Tech.
+- I'm currently studying Computer Science at Georgia Tech.
 
 ![til](./gatech.gif)
 
