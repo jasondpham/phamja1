@@ -13,7 +13,7 @@ I'm Jason Pham
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/70985186/133722766-09a30763-01ec-417c-96d6-494b060f7a0c.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://user-images.githubusercontent.com/70985186/133723370-e45d7d75-5c87-4a80-8a1f-c534a02a73b8.png" />][instagram]
 </br>
 </br>
 ### Languages and Tools
