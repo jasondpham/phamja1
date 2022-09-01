@@ -6,9 +6,9 @@ I'm Jason Pham
 ![til](./gatech.gif)
 
 ## Current Coursework
-- CS 3600 Introduction to Artificial Intelligence
-- CS 2110 Computer Organization
-- CS 3511 Design and Analysis of Algorithms Honors
+- CS 3251 Computer Networking I
+- CS 4261 Mobile Applications and Services
+- CS 4476 Computer Vision
 
 
 ### Connect with me:
