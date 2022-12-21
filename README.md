@@ -6,9 +6,7 @@ I'm Jason Pham
 ![til](./gatech.gif)
 
 ## Current Coursework
-- CS 3251 Computer Networking I
-- CS 4261 Mobile Applications and Services
-- CS 4476 Computer Vision
+### DONE!
 
 
 ### Connect with me:
